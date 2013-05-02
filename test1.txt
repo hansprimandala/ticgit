@@ -1,9 +1,15 @@
 test1
 GRA
 <<<<<<< HEAD
+<<<<<<< HEAD
 TEST2
 TEST3
 TEST4S
 =======
 test2
+>>>>>>> master2
+=======
+test2
+
+PUBLIC PHP FILE
 >>>>>>> master2
