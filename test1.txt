@@ -4,6 +4,11 @@ test2
 
 
 PUBLIC PHP FILE
+<<<<<<< HEAD
 
 PUBLIC JAVA FILE
 
+=======
+PUBLIC JAVA FILE
+PUBLIC C FILE
+>>>>>>> master2
