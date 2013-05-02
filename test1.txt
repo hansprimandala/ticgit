@@ -1,5 +1,9 @@
 test1
 GRA
+<<<<<<< HEAD
 TEST2
 TEST3
 TEST4S
+=======
+test2
+>>>>>>> master2
